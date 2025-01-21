@@ -1,12 +1,9 @@
 
-## bgfx介绍
-
-作业基于bgfx编写。
+## 网易e星计划bgfx作业
 
 bgfx是一个开源的跨平台渲染库，封装了统一的接口，屏蔽了底层不同图形API的差异（DirectX、OpenGL等）。
 
 bgfx文档网站为：<https://bkaradzic.github.io/bgfx/>。在这里可也以看见教程和范例。
-
 
 ### Level1
 
